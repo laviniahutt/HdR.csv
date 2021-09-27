@@ -1,0 +1,9 @@
+id,name,species,
+F,Frodo,1,1=hobbit
+S,Sam,1,
+G,Gandalf,2,2=wizard
+A,Aragorn,3,3=human
+L,Legolas,4,4=elb
+Gi,Gimli,5,5=dwarf
+Go,Gollum,6,6=mutant
+RS,Ring Sauron,3,
